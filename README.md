@@ -11,15 +11,11 @@ This is a Banking rest api which we can execute apis through swagger.
     ```
     cd BankingApplication
     ```
-3. Activate Venv,
-	```
-    cd venv/Scripts/activate
-    ```
-	if venv not working, then create virtual env  and install python packages
+3. create virtual env  , activate venv and install python packages
 	virtualenv -m venv
 	pip install -r requirements.txt
 	
-4. Go to Banking API folder
+5. Go to Banking API folder
 	cd BankingAPI
 
 3. Now start the setup by entering the following command.
