@@ -5,7 +5,7 @@ This is a Banking rest api which we can execute apis through swagger.
 ## How to Run api
 1. Open a Terminal, and clone the current repository.
     ```
-    git clone https://github.com/rafi007akhtar/CentralBank.git
+    git clone https://github.com/sbapathu/BankingApplication
     ```
 2. Enter the root directory.
     ```
