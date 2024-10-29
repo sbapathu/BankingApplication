@@ -26,4 +26,4 @@ This is a Banking rest api which we can execute apis through swagger.
 
 4. Open url in browser "http://localhost:8000/swagger/"
 5. We can see the API endpoints. 
-	Please skip the apis of GET, PUT, PATCH AND DELETE OF id based retrieval/deletion/updation.
+	Please skip the apis of GET, PUT, PATCH AND DELETE OF id based retrieval/deletion/updation. Because those apis i did not work on those,  i am working on it will update in repository
